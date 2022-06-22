@@ -1,5 +1,5 @@
 # CourseGradesProject
-SDEV 2210 Project
+SDEV 2210 Project.
 Create a project that simulates a grade book for a class. Use a 2D array of integers, one row for each student, one column for each test score for that student. Set up the program for any number of students and any number of tests, and ask the user for those numbers. Test the program with 3 students that each have 3 test scores.
 
 The CourseGrades application should use a GradeBook class that has instance variables for the number of students and the number of grades, and the 2D array to contain those values. The constructor will use parameters for the number of students and the number of tests to instantiate the 2D array of the proper size. Use these methods:
