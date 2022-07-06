@@ -16,3 +16,27 @@ The driver class asks the user for the number of students and number of tests an
 Remember that arrays begin in position 0. Be sure to compensate so that when displaying information about the first student or test, you display “1”, not “0”. When asking the user to select a student or test, the user will input the human-friendly value of 1, 2, or 3 – be sure to compensate for the computer’s version of 0, 1, or 2. It’s very important that the user doesn’t have to know that computers start counting at 0 – keep your on-screen interactions human-friendly.
 
 Take a screenshot of your program execution that matches this sample session. Then run it again with a different set of test scores for the students, and check that you get good results for every student’s average and every test’s average. Take a screenshot of that execution.
+
+
+== We're Using GitHub Under Protest ==
+
+This project is currently hosted on GitHub.  This is not ideal; GitHub is a
+proprietary, trade-secret system that is not Free and Open Souce Software
+(FOSS).  We are deeply concerned about using a proprietary system like GitHub
+to develop our FOSS project.  We have an
+[open {bug ticket, mailing list thread, etc.} ](INSERT_LINK) where the
+project contributors are actively discussing how we can move away from GitHub
+in the long term.  We urge you to read about the
+[Give up GitHub](https://GiveUpGitHub.org) campaign from
+[the Software Freedom Conservancy](https://sfconservancy.org) to understand
+some of the reasons why GitHub is not a good place to host FOSS projects.
+
+If you are a contributor who personally has already quit using GitHub, please
+[check this resource](INSERT_LINK) for how to send us contributions without
+using GitHub directly.
+
+Any use of this project's code by GitHub Copilot, past or present, is done
+without our permission.  We do not consent to GitHub's use of this project's
+code in Copilot.
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
